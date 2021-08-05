@@ -6,7 +6,7 @@
 
 ## 1.谷歌浏览器的下载安装（默认你的计算机上面还没有谷歌浏览器，如果有，请移步至2进行阅读）
 
-在任意浏览器中搜索https://www.google.cn/chrome/后进入谷歌浏览器的官方下载网站，点击Download Chrome下载并安装。
+在任意浏览器中搜索https://www.google.cn/chrome/ 后进入谷歌浏览器的官方下载网站，点击Download Chrome下载并安装。
 ![](https://s3.bmp.ovh/imgs/2021/08/8490c41e444a0bf2.png)
 ## 2.国内使用谷歌浏览器的注意事项
 
@@ -42,60 +42,6 @@
 
 ![](https://s3.bmp.ovh/imgs/2021/08/6ddb910d887dc327.png)
 
-![](https://s3.bmp.ovh/imgs/2021/08/8639e7aa5b5a5d8f.png)
+<center>![](https://s3.bmp.ovh/imgs/2021/08/8639e7aa5b5a5d8f.png)<\center>
 
 到这里，你就可以开始使用Google了。
-
-# 文献阅读
-
-## 文献搜索工具
-
-#### 中文文献
-
-- 中国知网CNKI
-- 万方
-- 维普
-
-#### 外文文献
-
-- 谷歌学术GoogleScholar
-- web of science
-
-## 文献下载工具
-
-- 学校/个人知网/万方/维普账号下载
-- 谷歌学术GoogleScholar + SCI-hub 文献DOI号下载
-- 学校账号web of science 下载
-
-## 文献管理工具
-
-- 知网研学—E-Study
-- EndNote
-
-## 外文文献阅读工具
-
-- copytranslate
-
-- Googletranslator
-- 
-
-## 参考文献引用工具
-
-### 文献引用数量不多
-
-- 直接复制粘贴引文信息
-
-### 文献引用数量多且需要添加引用题注
-
-#### 中文文献
-
-- 知网研学E-Study
-
-#### 外文文献
-
-- 
-
-
-
-
-
